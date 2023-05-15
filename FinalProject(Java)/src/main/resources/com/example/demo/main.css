@@ -1,0 +1,22 @@
+.root{
+    -fx-background-color: white;
+    -fx-border-color: black;
+    -fx-border-width: 10;
+}
+
+.button {
+    -fx-background-color: black;
+    -fx-text-fill: white;
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-cursor: hand;
+}
+
+
+.label {
+    -fx-font-size: 25px;
+    -fx-font-weight: bold;
+    -fx-text-fill: black;
+}
+
+
