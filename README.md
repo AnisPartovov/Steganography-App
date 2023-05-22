@@ -4,12 +4,12 @@ Steganography is the art of hiding sensitive information within a seemingly beni
 # Description
 My project consists of two parts:
 <ul>
-    <li>
-       
+    
+         <ul>
              <li>Steganography involves hiding secret information within different types of media. Text steganography utilizes the Caesar cipher to encrypt a message, allowing users to input a message and a key for encryption. The same key can be used for decryption to reveal the original message.   </li>
         </ul>
         <ul> 
              <li>IOn the other hand, image steganography refers to the practice of concealing a file within an image. This is achieved by modifying the least significant bits of the pixels in the image. By altering these less noticeable bits, the hidden file can be embedded without easily being detected.li>
         </ul> 
-    </li>
+    
 </ul>
