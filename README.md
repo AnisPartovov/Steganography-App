@@ -20,3 +20,9 @@ My project consists of two parts:
 - CSS
 - IntelliJ IDEA
 - GitHub
+## Installation instructions
+1. Clone the repository
+> git clone https://github.com/AnisPartovov/Steganography-App
+2. Open the project in your IDE (IntelliJ IDEA)
+3. Navigate to the `src/main/java/com/example/demo/SteganographyApp.java` file
+4. Run the `main()` method
