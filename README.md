@@ -1,2 +1,3 @@
 # Steganography-App
 # What is steganography? 
+Steganography is the art of hiding sensitive information within a seemingly benign carrier medium, like a picture, audio file, or text document, without drawing attention from undesired recipients. It entails integrating the concealed data in a way that makes its existence difficult to detect. Usually, the concealed information is encrypted or encoded before being incorporated into the carrier medium by imperceptibly small changes. Making sensitive data look as commonplace and undetectable as feasible is the goal of steganography, which attempts to offer clandestine communication and safeguard its secrecy.
