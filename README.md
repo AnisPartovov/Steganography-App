@@ -25,4 +25,4 @@ My project consists of two parts:
 > git clone https://github.com/AnisPartovov/Steganography-App
 2. Open the project in your IDE (IntelliJ IDEA)
 3. Navigate to the `src/main/java/com/example/demo/SteganographyApp.java` file
-4. Run the `main()` method
+4. Run the `SteganographyApp.java` method
