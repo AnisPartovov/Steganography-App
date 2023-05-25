@@ -26,3 +26,15 @@ My project consists of two parts:
 2. Open the project in your IDE (IntelliJ IDEA)
 3. Navigate to the `src/main/java/com/example/demo/SteganographyApp.java` file
 4. Run the `SteganographyApp.java` method
+## Planned App's features list
+<ul>
+    <li>
+        <ul>
+             <li>Text encryption   </li>
+        </ul>
+        <ul> 
+             <li>Encrypting a painting inside another painting </li>
+        </ul> 
+        <ul>Encrypting the text inside the picture</ul>
+    </li>
+</ul>
