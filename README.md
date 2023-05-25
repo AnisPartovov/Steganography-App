@@ -58,10 +58,4 @@ My project consists of two parts:
     </li>
 </ul>
 
-## Screenshots
-
-**1. Main Menu**
-
-   ![textSteg.png](FinalProject(Java)/src/main/Screenshot from 2023-05-25 10-51-42.png)
-
 
