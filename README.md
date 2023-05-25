@@ -58,4 +58,10 @@ My project consists of two parts:
     </li>
 </ul>
 
+## Screenshots
+
+**1. Main Menu**
+
+   ![textSteg.png]([src/main/resources/project/steganography/images/MainScreen.png](https://github.com/AnisPartovov/Steganography-App/blob/main/FinalProject(Java)/src/main/Screenshot%20from%202023-05-25%2010-51-42.png)
+
 
