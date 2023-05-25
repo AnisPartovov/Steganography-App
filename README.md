@@ -40,3 +40,13 @@ My project consists of two parts:
 </ul>
 
 ## List of completed features
+<ul>
+    <li>
+        <ul>
+             <li>Text encryption   </li>
+        </ul>
+        <ul> 
+             <li>Encrypting a painting inside another painting </li>
+        </ul>
+    </li>
+</ul>
