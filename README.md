@@ -38,7 +38,7 @@ My project consists of two parts:
         <ul>Encrypting the text inside the picture</ul>
     </li>
 </ul>
-## List of completed features
+##  List of completed features
 <ul>
     <li>
         <ul>
