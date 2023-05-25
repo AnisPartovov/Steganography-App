@@ -62,6 +62,6 @@ My project consists of two parts:
 
 **1. Main Menu**
 
-   ![textSteg.png]([src/main/resources/project/steganography/images/MainScreen.png](https://github.com/AnisPartovov/Steganography-App/blob/main/FinalProject(Java)/src/main/Screenshot%20from%202023-05-25%2010-51-42.png)
+   ![textSteg.png](FinalProject(Java)/src/main/Screenshot from 2023-05-25 10-51-42.png)
 
 
