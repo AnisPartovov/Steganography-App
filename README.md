@@ -50,3 +50,12 @@ My project consists of two parts:
         </ul>
     </li>
 </ul>
+
+## List of features yet to be implemented
+<ul>
+    <li>
+        <ul>Encrypting the text inside the picture</ul>
+    </li>
+</ul>
+
+
