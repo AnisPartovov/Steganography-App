@@ -38,3 +38,14 @@ My project consists of two parts:
         <ul>Encrypting the text inside the picture</ul>
     </li>
 </ul>
+## List of completed features
+<ul>
+    <li>
+        <ul>
+             <li>Text encryption </li>
+        </ul>
+        <ul> 
+             <li>Encrypting a picture  inside another picture  </li>
+        </ul> 
+    </li>
+</ul>
