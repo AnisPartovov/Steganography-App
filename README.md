@@ -57,6 +57,7 @@ My project consists of two parts:
         <ul>Encrypting the text inside the picture</ul>
     </li>
 </ul>
+
 ## Video Demonstration
 
 Watch the video <a href="https://www.youtube.com/watch?v=Ojt45HhBea4">here</a>
